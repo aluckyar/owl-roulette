@@ -13,7 +13,7 @@ Simply download or clone this repository
 
 ## Authors
 
-* **Alejandro Lucena Archilla** - [www.scomerline.es](https://github.com/PurpleBooth)
+* **Alejandro Lucena Archilla** - [www.scomerline.es](http://www.scomerline.es/)
 
 ## License
 
