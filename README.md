@@ -6,6 +6,10 @@ Owl Carousel is one of the most powerful jQuery slider plugins in the Web. Based
 
 Simply download or clone this repository
 
+## Demo
+
+[Demo](https://aluckyar.github.io/owl-roulette/)
+
 ## Built With
 
 * [Owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/) - Touch enabled jQuery plugin that lets you create a beautiful responsive carousel slider.

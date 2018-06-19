@@ -1,5 +1,3 @@
-/* global roulette, recarga_minima */
-
 var stoping = false;
 var itemSelected = 0;
 
